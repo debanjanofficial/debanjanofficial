@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Debanjan Chakraborty</h1>
 <h3 align="center">A passionate person in the field of Data Science and AI.</h3>
 
-<img align=“right” alt=“coding” width=“400” src=“https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif”>
+<img align=“right” alt=“coding” width=“600” src=“https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif”>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debanjanofficial&label=Profile%20views&color=0e75b6&style=flat" alt="debanjanofficial" /> </p>
 
 <p align="left"> <a href="https://twitter.com/deb59official" target="blank"><img src="https://img.shields.io/twitter/follow/deb59official?logo=twitter&style=for-the-badge" alt="deb59official" /></a> </p>
