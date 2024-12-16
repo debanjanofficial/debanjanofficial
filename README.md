@@ -16,7 +16,7 @@
 <a href="https://twitter.com/deb59official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deb59official" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/debanjan-chakraborty-14077118b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debanjan-chakraborty-14077118b" height="30" width="40" /></a>
 <a href="https://fb.com/devchakrabort" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devchakrabort" height="30" width="40" /></a>
-<a href="https://instagram.com/debanjanofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="debanjanofficial" height="30" width="40" /></a>
+<a href="https://www.instagram.com/debanjanofficial/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="debanjanofficial" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
